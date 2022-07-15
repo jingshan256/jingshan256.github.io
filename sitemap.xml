@@ -700,13 +700,6 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/kindle/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.origincat.com/tags/hexo/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -714,28 +707,14 @@
   </url>
   
   <url>
+    <loc>http://www.origincat.com/tags/kindle/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.origincat.com/tags/vscode/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/python/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/excel/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/powershell/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -757,6 +736,27 @@
   
   <url>
     <loc>http://www.origincat.com/tags/linux/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/python/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/excel/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/powershell/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -833,34 +833,6 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/Debian/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/wine/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/Java/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/Java-SE/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.origincat.com/tags/Linux/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -909,6 +881,34 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://www.origincat.com/tags/Debian/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/wine/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/Java/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/Java-SE/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -926,14 +926,14 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/kindle/</loc>
+    <loc>http://www.origincat.com/categories/hexo/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/hexo/</loc>
+    <loc>http://www.origincat.com/categories/kindle/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -947,14 +947,14 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/python/</loc>
+    <loc>http://www.origincat.com/categories/git/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/git/</loc>
+    <loc>http://www.origincat.com/categories/python/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -975,6 +975,13 @@
   </url>
   
   <url>
+    <loc>http://www.origincat.com/categories/git/linux/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.origincat.com/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -989,14 +996,14 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/Java/</loc>
+    <loc>http://www.origincat.com/categories/cookbook/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/git/linux/</loc>
+    <loc>http://www.origincat.com/categories/mysql/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1010,14 +1017,14 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/Linux/Debian/</loc>
+    <loc>http://www.origincat.com/categories/Linux/Arch/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/Java/Java-SE/</loc>
+    <loc>http://www.origincat.com/categories/Linux/Debian/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1031,21 +1038,14 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/Linux/Arch/</loc>
+    <loc>http://www.origincat.com/categories/Java/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/cookbook/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/categories/mysql/</loc>
+    <loc>http://www.origincat.com/categories/Java/Java-SE/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
