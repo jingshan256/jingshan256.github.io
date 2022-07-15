@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.origincat.com/Debian11_wine_wechat/</loc>
+    <loc>http://www.origincat.com/Hexo_blog_backup_and_restore_based_on_github/</loc>
     
-    <lastmod>2022-03-30</lastmod>
+    <lastmod>2022-07-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>http://www.origincat.com/java_se_2/</loc>
     
-    <lastmod>2022-03-30</lastmod>
+    <lastmod>2022-07-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,6 +21,15 @@
   
   <url>
     <loc>http://www.origincat.com/java_se_1/</loc>
+    
+    <lastmod>2022-07-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/Debian11_wine_wechat/</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -679,13 +688,6 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.origincat.com/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -694,6 +696,13 @@
   
   <url>
     <loc>http://www.origincat.com/tags/%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -721,6 +730,20 @@
   </url>
   
   <url>
+    <loc>http://www.origincat.com/tags/python/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/excel/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.origincat.com/tags/git/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -736,20 +759,6 @@
   
   <url>
     <loc>http://www.origincat.com/tags/linux/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/python/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/excel/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -947,14 +956,14 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/git/</loc>
+    <loc>http://www.origincat.com/categories/python/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/python/</loc>
+    <loc>http://www.origincat.com/categories/git/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -969,13 +978,6 @@
   
   <url>
     <loc>http://www.origincat.com/categories/Qt/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/categories/git/linux/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -997,6 +999,13 @@
   
   <url>
     <loc>http://www.origincat.com/categories/cookbook/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/categories/git/linux/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
